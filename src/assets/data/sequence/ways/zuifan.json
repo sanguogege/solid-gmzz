@@ -1,0 +1,129 @@
+{
+    "name": "zuifan",
+    "power": "恶魔、深渊",
+    "taluopai": "恶魔",
+    "top": "恶魔君王法布缇",
+    "orderby": 22,
+    "order": [
+        {
+            "num": 9,
+            "name": "罪犯",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 8,
+            "name": "折翼天使",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 7,
+            "name": "连环杀手",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 6,
+            "name": "恶魔",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 5,
+            "name": "欲望使徒",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 4,
+            "name": "魔鬼",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 3,
+            "name": "呓语者",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 2,
+            "name": "鲜血大公",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 1,
+            "name": "污秽君王",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 0,
+            "name": "深渊",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        }
+    ]
+}

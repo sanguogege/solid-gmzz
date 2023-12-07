@@ -1,0 +1,129 @@
+{
+    "name": "kuimiren",
+    "power": "堕落",
+    "taluopai": "隐者",
+    "top": "隐匿贤者",
+    "orderby": 12,
+    "order": [
+        {
+            "num": 9,
+            "name": "窥秘人",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 8,
+            "name": "格斗学者",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 7,
+            "name": "巫师",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 6,
+            "name": "卷轴教授",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 5,
+            "name": "星象师",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 4,
+            "name": "神秘学家",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 3,
+            "name": "预言大师",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 2,
+            "name": "贤者",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 1,
+            "name": "知识皇帝",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 0,
+            "name": "隐者",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        }
+    ]
+}

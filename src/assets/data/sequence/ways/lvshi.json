@@ -1,0 +1,129 @@
+{
+    "name": "lvshi",
+    "power": "规则阴暗面",
+    "taluopai": "皇帝",
+    "top": "罗塞尔",
+    "orderby": 16,
+    "order": [
+        {
+            "num": 9,
+            "name": "律师",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 8,
+            "name": "野蛮人",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 7,
+            "name": "贿赂者",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 6,
+            "name": "腐化男爵",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 5,
+            "name": "混乱导师",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 4,
+            "name": "堕落伯爵",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 3,
+            "name": "狂乱法师",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 2,
+            "name": "熵之公爵",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 1,
+            "name": "弑序亲王",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 0,
+            "name": "黑皇帝",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        }
+    ]
+}

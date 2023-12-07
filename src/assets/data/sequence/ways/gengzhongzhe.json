@@ -1,0 +1,129 @@
+{
+    "name": "gengzhongzhe",
+    "power": "大地、繁衍",
+    "taluopai": "世界",
+    "top": "莉莉丝",
+    "orderby": 19,
+    "order": [
+        {
+            "num": 9,
+            "name": "耕种者",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 8,
+            "name": "医师",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 7,
+            "name": "丰收祭司",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 6,
+            "name": "丰收祭司",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 5,
+            "name": "德鲁伊",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 4,
+            "name": "古代炼金师",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 3,
+            "name": "抬棺人",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 2,
+            "name": "荒芜主母",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 1,
+            "name": "荒芜主母",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 0,
+            "name": "母亲",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        }
+    ]
+}

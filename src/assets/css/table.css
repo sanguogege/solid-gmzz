@@ -1,0 +1,141 @@
+.sequencetable {
+    width: 1600px;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: var(--primary-bg);
+    transition: all 0.4s ease-in-out;
+}
+
+.sequencetable tr {
+    width: 100%;
+}
+
+.sequencetable td {
+    font-size: 14px;
+    height: 1px;
+    text-align: center;
+    border: 1px solid var(--borer-color);
+    transition: all 0.4s ease-in-out;
+}
+
+.sequencetable td a {
+    color: var(--default-color);
+    transition: all 0.4s ease-in-out;
+}
+
+.sequencetable thead {
+    background-color: var(--thead-bg);
+    transition: all 0.4s ease-in-out;
+}
+
+.sequencetable thead td {
+    color: var(--primary-color);
+    transition: all 0.4s ease-in-out;
+    padding: 16px 0;
+}
+
+.sequencetable .tabletop td {
+    font-size: 24px;
+    letter-spacing: 24px;
+    font-weight: bold;
+}
+
+.sequencetable td a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.4s ease-in-out;
+    padding: 5px 6px;
+}
+
+.sequencetable tbody td:hover {
+    cursor: pointer;
+    background-color: var(--td-hover-bg);
+}
+
+.sequencetable tbody td a:hover {
+    color: var(--td-hover-color);
+}
+
+.sequencetable tfoot td {
+    color: var(--default-color);
+    padding: 5px 0;
+    transition: all 0.4s ease-in-out;
+}
+
+.sequencetable td a.female {
+    color: var(--female-color);
+}
+
+.sequencetable td a.male {
+    color: var(--male-color);
+}
+
+.sequencetable .yonganzhihe {
+    background-color: var(--yonganzhihe-bg);
+}
+
+.sequencetable .hundunhai {
+    background-color: var(--hundunhai-bg);
+}
+
+.sequencetable .zhishihuangye {
+    background-color: var(--zhishihuangye-bg);
+}
+
+.sequencetable .yuanbao {
+    background-color: var(--yuanbao-bg);
+}
+
+.sequencetable .shixuzhiguo {
+    background-color: var(--shixuzhiguo-bg);
+}
+
+.sequencetable .zaihuozhicheng {
+    background-color: var(--zaihuozhicheng-bg);
+}
+
+.sequencetable .muchao {
+    background-color: var(--muchao-bg);
+}
+
+.sequencetable .anyingshijie {
+    background-color: var(--anyingshijie-bg);
+}
+
+.sequencetable .lowpower {
+    background-color: var(--hundunhai-bg);
+    color: var(--primary-color);
+}
+
+.sequencetable .centerpower {
+    background-color: var(--zhishihuangye-bg);
+    color: var(--primary-color);
+}
+
+.sequencetable .heightpower {
+    background-color: var(--muchao-bg);
+    color: var(--primary-color);
+}
+
+.sequencetable .anglepower {
+    background-color: var(--anyingshijie-bg);
+    color: var(--primary-color);
+}
+
+.sequencetable .zeropower {
+    background-color: var(--shixuzhiguo-bg);
+    color: var(--primary-color);
+}
+
+.sequencetable .yonganzhihe a,
+.sequencetable .hundunhai a,
+.sequencetable .zhishihuangye a,
+.sequencetable .yuanbao a,
+.sequencetable .shixuzhiguo a,
+.sequencetable .anyingshijie a,
+.sequencetable .zaihuozhicheng a,
+.sequencetable .muchao a,
+.sequencetable .zaihuozhicheng a {
+    color: var(--primary-color);
+}

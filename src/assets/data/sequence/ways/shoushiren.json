@@ -1,0 +1,129 @@
+{
+    "name": "shoushiren",
+    "power": "死灵、冥界",
+    "taluopai": "死神",
+    "top": "阿曼尼西斯",
+    "orderby": 6,
+    "order": [
+        {
+            "num": 9,
+            "name": "收尸人",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 8,
+            "name": "掘墓人",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 7,
+            "name": "通灵者",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 6,
+            "name": "死灵导师",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 5,
+            "name": "看门人",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 4,
+            "name": "不死者",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 3,
+            "name": "摆渡人",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 2,
+            "name": "死亡执政官",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 1,
+            "name": "苍白皇帝",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        },
+        {
+            "num": 0,
+            "name": "死神",
+            "func": "",
+            "main": [
+                ""
+            ],
+            "assist": [
+                ""
+            ],
+            "ceremony": ""
+        }
+    ]
+}
